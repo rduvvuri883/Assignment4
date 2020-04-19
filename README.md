@@ -1,7 +1,10 @@
 # Assignment4
 Serverless AI Data Engineering Pipeline
 
+Reference Materials:
 
+1) Github Repo - https://github.com/noahgift/awslambda
+2) Youtube Video - https://www.youtube.com/watch?v=zXxdbtamoa4&ab_channel=PragmaticAILabs
 
 Apart from the step-by-step video instructions provided by Professor, here are few things to keep in mind:
 
